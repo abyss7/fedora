@@ -1,0 +1,3 @@
+[submodule "ksuperkey/ksuperkey"]
+	path = ksuperkey/ksuperkey
+	url = https://github.com/hanschen/ksuperkey.git
